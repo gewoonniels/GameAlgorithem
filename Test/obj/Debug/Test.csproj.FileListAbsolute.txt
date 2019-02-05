@@ -1,0 +1,17 @@
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Test.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Test.pdb
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\SteeringCS.exe
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\SteeringCS.pdb
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\SteeringCS.exe.config
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\obj\Debug\Test.dll
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\Test\obj\Debug\Test.pdb
