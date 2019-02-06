@@ -12,9 +12,11 @@ namespace SteeringCS.entity
         public Vector2D Velocity { get; set; }
         public float Mass { get; set; }
         public float MaxSpeed { get; set; }
+        public Vector2D Heading { get; set; }
+        public Vector2D Side { get; set; }
 
-        public  SteeringBehaviour SB { get; set; }
- 
+        public SteeringBehaviour SB { get; set; }
+
 
         public MovingEntity(Vector2D pos, World w) : base(pos, w)
         {
@@ -43,11 +45,11 @@ namespace SteeringCS.entity
 
             //update the heading if the vehicle has a velocity greater than a very small
             //value
-            //if (Velocity.LengthSquared() > 0.00000001)
-            //{
-            //    //Pos = Velocity.Normalize();
-            //    //m_vSide = Heading.Perp();
-            //}
+            if (Velocity.LengthSquared() > 0.00000001)
+            {
+                Heading = Velocity.Normalize();
+                Side = Heading.Perp();
+            }
         }
 
         public override string ToString()

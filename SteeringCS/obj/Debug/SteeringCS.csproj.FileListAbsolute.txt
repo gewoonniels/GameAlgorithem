@@ -26,3 +26,13 @@ C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\SteeringC
 C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\SteeringCS\obj\Debug\SteeringCS.csproj.CoreCompileInputs.cache
 C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\SteeringCS\obj\Debug\SteeringCS.exe
 C:\Users\niels\Documents\HBO-ICT\3de jaar\Game AI\SteeringCS - Student\SteeringCS\obj\Debug\SteeringCS.pdb
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.csprojAssemblyReference.cache
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.Form1.resources
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.Properties.Resources.resources
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.csproj.GenerateResource.cache
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.exe
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\obj\Debug\SteeringCS.pdb
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\bin\Debug\SteeringCS.exe.config
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\bin\Debug\SteeringCS.exe
+C:\Users\niels\Documents\HBO-ICT\3de jaar\Game\GameAlgorithem\SteeringCS\bin\Debug\SteeringCS.pdb

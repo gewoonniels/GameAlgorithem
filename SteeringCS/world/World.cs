@@ -26,9 +26,15 @@ namespace SteeringCS
 
         private void populate()
         {
-            Vehicle v = new Vehicle(new Vector2D(10,10), this);
+            Vehicle v = new Vehicle(new Vector2D(10, 10), this);
             v.VColor = Color.Blue;
+            v.SB = new SeekBehaviour(v);
             entities.Add(v);
+
+            Vehicle wander = new Vehicle(new Vector2D(150, 70), this);
+            wander.VColor = Color.DarkGreen;
+           // wander.SB = new wanderBehaviour(wander);
+            //entities.Add(wander);
 
             Target = new Vehicle(new Vector2D(100, 60), this);
             Target.VColor = Color.DarkRed;
@@ -39,7 +45,6 @@ namespace SteeringCS
         {
             foreach (MovingEntity me in entities)
             {
-                me.SB = new SeekBehaviour(me);
                 me.Update(timeElapsed);
             }
         }
