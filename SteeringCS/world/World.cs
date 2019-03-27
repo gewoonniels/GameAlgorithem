@@ -26,14 +26,20 @@ namespace SteeringCS
 
         private void populate()
         {
-            Vehicle v = new Vehicle(new Vector2D(10, 10), this);
-            v.VColor = Color.Blue;
-            v.SB = new SeekBehaviour(v);
-            entities.Add(v);
+            //Dog with seek behaviour
+            Dog dog = new Dog(new Vector2D(10, 10), this);
+            dog.SB = new SeekBehaviour(dog);
+            entities.Add(dog);
 
-            Vehicle wander = new Vehicle(new Vector2D(150, 70), this);
-            wander.VColor = Color.DarkGreen;
-           // wander.SB = new wanderBehaviour(wander);
+            //Flee behaviour on vehicle
+            Dog dog2 = new Dog(new Vector2D(600, 600), this);
+            dog2.SB = new FleeBehaviour(dog2);
+            entities.Add(dog2);
+
+
+            //Vehicle wander = new Vehicle(new Vector2D(150, 70), this);
+            //wander.VColor = Color.DarkGreen;
+            //wander.SB = new wanderBehaviour(wander);
             //entities.Add(wander);
 
             Target = new Vehicle(new Vector2D(100, 60), this);

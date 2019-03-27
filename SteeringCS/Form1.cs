@@ -44,5 +44,10 @@ namespace SteeringCS
         {
             world.Target.Pos = new Vector2D(e.X, e.Y);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
